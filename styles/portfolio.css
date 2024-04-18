@@ -79,6 +79,7 @@ nav a:hover {
 }
 footer {
   margin: 60px 0;
+  font-family: var(--default-font-family);
 }
 footer .contact-box {
   padding: 30px;
